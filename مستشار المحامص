@@ -1,5 +1,64 @@
 # مستشار المحامص والمطاحن — النسخة الأولية
 
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>دورات خلطات القهوة السعودية وتدريب الطواقم | أكاديمية التحميص</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; }
+    body { background: #faf7f2; color: #2c1e16; line-height: 1.7; padding: 20px; }
+    .container { max-width: 720px; margin: 30px auto; background: #ffffff; border-radius: 16px; padding: 32px; box-shadow: 0 8px 24px rgba(44,30,22,0.06); border: 1px solid #ece3d5; }
+    .badge { display: inline-block; background: #efe4d2; color: #6f4427; font-size: 13px; font-weight: 700; padding: 6px 14px; border-radius: 99px; margin-bottom: 14px; }
+    h1 { font-size: 28px; color: #2c1e16; margin-bottom: 12px; }
+    p.lead { color: #5c4638; font-size: 16px; margin-bottom: 24px; }
+    .grid { display: grid; gap: 14px; margin-bottom: 28px; }
+    .card { background: #fcfaf6; border: 1px solid #eadfce; border-radius: 12px; padding: 16px; }
+    .card h3 { font-size: 17px; color: #6f4427; margin-bottom: 4px; }
+    .card p { font-size: 14px; color: #5c4638; }
+    .pricing { background: #2c1e16; color: #fff; border-radius: 12px; padding: 20px; text-align: center; margin-bottom: 20px; }
+    .pricing span { display: block; font-size: 14px; color: #dfd3c3; margin-top: 6px; }
+    .actions { display: grid; gap: 10px; }
+    .btn { display: block; width: 100%; text-align: center; background: #8c5532; color: #fff; text-decoration: none; padding: 14px; border-radius: 10px; font-weight: 700; font-size: 16px; }
+    .btn-secondary { background: #efe4d2; color: #2c1e16; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <span class="badge">أكاديمية التحميص • البرامج التدريبية</span>
+    <h1>دورات خلطات القهوة وتأهيل الموظفين</h1>
+    <p class="lead">مسارات تدريبية تطبيقية مصممة لرفع كفاءة فرق العمل في المحامص وأقسام القهوة والبهارات وضبط جودة التحميص والخلطات.</p>
+
+    <div class="grid">
+      <div class="card">
+        <h3>أساسيات التحميص ودرجاته</h3>
+        <p>فهم منحنيات الحرارة، اختيار المحاصيل، وتحديد درجة التحميص المناسبة لكل صنف وموسم.</p>
+      </div>
+      <div class="card">
+        <h3>وزن خلطات القهوة السعودية والهيل والزعفران</h3>
+        <p>معايير الطحن، نسب المكونات، وطرق حفظ النكهة لضمان طعم ثابت يرضي الذائقة المحلية.</p>
+      </div>
+      <div class="card">
+        <h3>إدارة الجودة وخدمة عملاء المحمصة</h3>
+        <p>تجهيز العرض داخل المتجر، التغليف السليم، ومهارات ترشيح المنتجات للعملاء لزيادة سلة الشراء.</p>
+      </div>
+    </div>
+
+    <div class="pricing">
+      <strong>وصول كامل لجميع الدورات والمواد التدريبية</strong>
+      <span>99 ريال / شهرياً &nbsp;|&nbsp; 999 ريال / سنوياً</span>
+    </div>
+
+    <div class="actions">
+      <a class="btn" href="consulting.html">الانتقال إلى صفحة الاستشارات</a>
+      <a class="btn btn-secondary" href="index.html">العودة إلى الرئيسية — أكاديمية التحميص</a>
+    </div>
+  </div>
+</body>
+</html>
+
+
 تطبيق متعدد المنصات مبني باستخدام Expo وReact Native، بواجهة عربية واتجاه عرض مناسب للمحتوى العربي.
 
 ## ما يتضمنه النموذج
